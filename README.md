@@ -1,3 +1,4 @@
 # Portfolio-
 My portfolio from beginner web developer 
-Author : Nilesh Thakor
+<br>
+<h1>Author : Nilesh Thakor</h1>
